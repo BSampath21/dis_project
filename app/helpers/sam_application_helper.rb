@@ -1,0 +1,2 @@
+module SamApplicationHelper
+end
